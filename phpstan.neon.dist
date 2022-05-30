@@ -1,0 +1,9 @@
+parameters:
+    level: 8
+    paths:
+        - addons/
+        - app/
+    excludePaths:
+        - */vendor/*
+    bootstrapFiles!:
+        - bootstrap.php

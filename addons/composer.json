@@ -1,0 +1,9 @@
+{
+    "name": "bytestream/addon",
+    "require": {
+        "firebase/php-jwt": "5.2.1"
+    },
+    "config": {
+        "prepend-autoloader": false
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "bytestream/phpstan-7308",
+    "require": {
+        "firebase/php-jwt": "^6"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.7"
+    }
+}
